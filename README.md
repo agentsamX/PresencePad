@@ -11,3 +11,10 @@ Samuel Canonaco(Programmer/Designer) : Device Software / CAD Design
 <br>
 <br>
 Team Leadership is shared equally
+<br>
+<br>
+Bodystorming :
+<br>
+Link to Presentation Video https://youtu.be/WczxCR4EdWw
+Link to Bodystorming Video https://youtu.be/2H4ggFV89po
+Link to Demo Video https://youtu.be/LZNlbZ5dafE
