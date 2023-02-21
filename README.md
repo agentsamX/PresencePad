@@ -16,5 +16,7 @@ Team Leadership is shared equally
 Bodystorming :
 <br>
 Link to Presentation Video https://youtu.be/WczxCR4EdWw
+<br>
 Link to Bodystorming Video https://youtu.be/2H4ggFV89po
+<br>
 Link to Demo Video https://youtu.be/LZNlbZ5dafE
